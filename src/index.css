@@ -1,0 +1,33 @@
+body {
+  background-color: azure;
+}
+
+h1 {
+  margin-top: 2em;
+  text-align: center;
+  background-color: cadetblue;
+  padding: 10px 0 10px 0;
+}
+
+h2 {
+  margin: 1em;
+}
+
+.tiles-container {
+  margin: 3em auto;
+  width: 420px;
+}
+
+.tile-wrap {
+  width: 100px;
+  height: 100px;
+}
+
+.child {
+  float: left;
+  margin: 0px  5px  5px 0;
+}
+
+.infoWrap {
+  text-align: center;
+}
